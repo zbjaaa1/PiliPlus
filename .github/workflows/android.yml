@@ -27,7 +27,7 @@ jobs:
           distribution: "zulu"
           java-version: "17"
 
-     - name: 下载 PiliPlus
+      - name: 下载 PiliPlus
         run: |
           git clone https://github.com/bggRGjQaUbCoE/PiliPlus.git
 
